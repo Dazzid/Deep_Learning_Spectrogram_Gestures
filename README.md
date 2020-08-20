@@ -18,6 +18,10 @@ We used:
 ## Spectrogram Shapes
 <img src="https://github.com/Dazzid/Deep_Learning_Spectrogram_Gestures/blob/master/figures/complete_spectrogram_gestures.png" width=80%/>
 
+## Confusion Matrix
+This is the final confusion matrix report from the model CNN_LSTM with a filter size 64.
+<img src="https://github.com/Dazzid/Deep_Learning_Spectrogram_Gestures/blob/master/figures/Confusion_Matrix_CNN_LSTM64.png" width=80%/>
+
 ## Licence
 The code is released under the [Apache License, Version 2.0](https://github.com/tensorflow/tensorflow/blob/master/LICENSE)
 The IMU sensor samples are released under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA 4.0) [license](http://creativecommons.org/licenses/by-nc-sa/4.0/).

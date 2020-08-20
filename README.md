@@ -15,7 +15,7 @@ We used:
 <img src="https://github.com/Dazzid/Applying_Deep_Learning_Techniques_to_Estimate_Patterns_of_Musical_Gesture/blob/master/figures/01_music_score_eight_gestures.jpg" width=80%/>
 
 ## Spectrogram Shapes
-<img src="https://github.com/Dazzid/Deep_Learning_Spectrogram_Gestures/blob/master/figures/complete_spectrogram_gestures.pdf" width=80%/>
+<img src="https://github.com/Dazzid/Deep_Learning_Spectrogram_Gestures/blob/master/figures/complete_spectrogram_gestures.png" width=80%/>
 
 ## Licence
 The code is released under the [Apache License, Version 2.0](https://github.com/tensorflow/tensorflow/blob/master/LICENSE)
